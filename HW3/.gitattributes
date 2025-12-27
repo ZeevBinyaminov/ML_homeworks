@@ -1,0 +1,6 @@
+test_news.csv filter=lfs diff=lfs merge=lfs -text
+base_submission_news.csv filter=lfs diff=lfs merge=lfs -text
+bow_logreg.csv filter=lfs diff=lfs merge=lfs -text
+lenta_arts.csv filter=lfs diff=lfs merge=lfs -text
+rbc_arts.xlsx filter=lfs diff=lfs merge=lfs -text
+rbc_econ_and_russia_arts.xlsx filter=lfs diff=lfs merge=lfs -text
